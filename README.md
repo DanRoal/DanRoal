@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi, I'm Dan Roal 👋
 
+I'm a physics student that is passionate about coding and quantum optics. I'm currently working on my bachelor's thesis in quantum optics.
+
+- 🔭 I’m currently working on open source proyects, specialy in my app called DatMeasure.
+- 🌱 I’m currently learning about quantum optics, quantum computing, and machine learning.
+- 🫡 I'm proficient in Python and I'm learning Rust.
 <!--
 **DanRoal/DanRoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
