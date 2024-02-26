@@ -2,7 +2,7 @@
 
 I'm a physics student that is passionate about coding and quantum optics. I'm currently working on my bachelor's thesis in quantum optics.
 
-- 🔭 I’m currently working on open source proyects, specialy in my app called DatMeasure.
+- 🔭 I’m currently working on open source proyects, specialy on my app called DatMeasure.
 - 🌱 I’m currently learning about quantum optics, quantum computing, and machine learning.
 - 🫡 I'm proficient in Python and I'm learning Rust.
 <!--
